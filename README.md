@@ -13,11 +13,14 @@ Pedidos de novas comunidades
 - [Consiga sua nova vaga agora](VagasTIRN)
 
 ## Grupos
-
-
-@potilivre (comunidade potiguar de software livre) 
-@dadosabertosrn 
-@jerimumhs (hackerspace) 
+  - [Comunidade Potiguar de Software Livre](http://t.me/potilivre)
+    - [](http://t.me/)
+  - [Dados Abertos RN](http://t.me/dadosabertosrn)
+  - [Jerimum Hackerspace](http://t.me/jerimumhs)
+  - [Grupo de Usuários de Pythoh](http://t.me/)
+  - [](http://t.me/)
+  - [](http://t.me/)
+   
 @grupyrn 
 @brejatec (grupo do happy hour de tecnologia e empreendedorismo :beers:)
 @dojonatal (treino de programação) :triangular_flag_on_post: 
