@@ -98,7 +98,7 @@ Para realizar pedidos de novas comunidades:
   - [Meetup.com](https://www.meetup.com/pt-BR/rladies-natal/)
 
 # Capítulos locais de organizações internacionais
-- GDG - Google Developer Group
+- GDG - Google Developers Group
   - [Site](http://gdg.natal.br/)
   - [WhatsApp](https://chat.whatsapp.com/5E6eeDXqEVs38rjqw92mrf)
   - [GitHub](https://github.com/gdg-natal)
