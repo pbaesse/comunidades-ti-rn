@@ -32,7 +32,7 @@ OBS. Caso não saiba usar o GitHub, basta pedir para que sua comunidade seja adi
     - [Confirme no evento do Facebook](http://bitly.com/BrejaTecFBE)
     - [Facebook](https://www.facebook.com/brejatec/)    
   - [Jerimum Hackerspace](http://t.me/jerimumhs)
-  - [Grupo de Usuários de Pythoh](http://t.me/grupyrn)
+  - [Grupo de Usuários de Python](http://t.me/grupyrn)
   - [Treino semanal de programação](http://t.me/dojonatal)
   - [Grupo de Usuários de Ruby](http://t.me/ruby_rn)
   - [Grupo de Usuários de PHP](http://t.me/phprn)
