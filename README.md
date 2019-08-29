@@ -10,7 +10,7 @@ Pedidos de novas comunidades:
 1. Crie um pull request para adicionar novas comunidades;
 2. Retire o :triangular_flag_on_post: das comunidades com esse ícone e coloque nas novas comunidades adiciondas;
 3. Avise no grupo do [PotiLivre no Telegram](http://t.me/potilivre) alteração para que seja atualizado também no canal do Telegram.
-
+OBS. Caso não saiba usar o GitHub, basta pedir para que sua comunidade seja adicionada aqui no grupo do telegram do [BrejaTec](http://t.me/brejatec) ou do [PotiLivre](http://t.me/potilivre). 
 ## Canais
 
 - [Siga o Canal das Comunidades Potiguares de TI no Telegram](https://t.me/tipotiguar)
