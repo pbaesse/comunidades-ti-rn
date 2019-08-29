@@ -2,7 +2,7 @@ Comunidades Potiguares de TI
 =============
 
 A comunidades potiguares de tecnologia e afins estão bombando na vida real e no Telegram! Participe você também.
-Inspiração no [Repositório de Canais e Grupos de TI Brasileiro](https://github.com/alexmoreno/telegram-br). Conheças várias outras comunidades lá também.
+Inspiração no [Repositório de Canais e Grupos Brasileiros de TI ](https://github.com/alexmoreno/telegram-br). Conheças várias outras comunidades lá também.
 
 
 Pedidos de novas comunidades:
