@@ -79,6 +79,7 @@ Para realizar pedidos de novas comunidades:
   - [Facebook](https://www.facebook.com/jerimumvalley/)
   - [Instagram](https://www.instagram.com/jerimumvalley)
 - [Divulga Serviços TI - RN](http://t.me/RN_DivulgServsTI): Divulgação de serviços e portfólios de TI
+- [Remote Natal](http://t.me/remotenatal): trabalho e vagas de trabalho remoto :triangular_flag_on_post:
 
 # Design e comunicação
   - [UI/UX UnicoRN](http://t.me/uiuxrn): UI e UX Design
