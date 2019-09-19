@@ -1,7 +1,7 @@
 Comunidades Potiguares de TI
 =============
 
-A comunidades potiguares de tecnologia e afins estão bombando na vida real e no Telegram! Participe você também. Esse repositório lista organiza as comunidades (e seus meios de comunicação) por temas na tecnologia.
+A comunidades potiguares de tecnologia e afins estão bombando na vida real e no Telegram! Participe você também. Esse repositório lista organiza as comunidades (e seus meios de comunicação) por temas na tecnologia. Use também para divulgar a comunidade potiguar de TI fora do Telegram. Avante!
 
 Inspiração no [Repositório de Canais e Grupos Brasileiros de TI ](https://github.com/alexmoreno/telegram-br). Conheças várias outras comunidades lá também.
 
@@ -10,6 +10,11 @@ Para realizar pedidos de novas comunidades:
 2. Retire o :triangular_flag_on_post: das comunidades com esse ícone e coloque nas novas comunidades adiciondas;
 3. Avise no grupo do [PotiLivre no Telegram](http://t.me/potilivre) alteração para que seja atualizado também no canal do Telegram.
 **OBS**: Caso não saiba usar o GitHub, basta pedir para que sua comunidade seja adicionada aqui no grupo do telegram do [BrejaTec](http://t.me/brejatec) ou do [PotiLivre](http://t.me/potilivre). 
+
+# Canais
+- [Agenda TI Potiguar](http://t.me/agendatirn): Nossa agenda de eventos de TI
+  - [Instagram](https://www.instagram.com/agendatipotiguar/)
+- [Vagas TI RN](http://t.me/VagasTIRN): Consiga sua nova vaga agora
 
 # Temas gerais de TI e socialização
 - [Jerimum Hackerspace](http://t.me/jerimumhs)
@@ -21,12 +26,7 @@ Para realizar pedidos de novas comunidades:
   - [Confirme no evento do Facebook](http://bitly.com/BrejaTecFBE)
   - [Facebook](https://www.facebook.com/brejatec/)
 - [TI-RN](http://t.me/TIdoRN): Grupo geral de TI
-- [Ágil RN](http://t.me/agilrn): En :triangular_flag_on_post:
-
-# Canais
-- [Agenda TI Potiguar](http://t.me/agendatirn): Nossa agenda de eventos de TI
-  - [Instagram](https://www.instagram.com/agendatipotiguar/)
-- [Vagas TI RN](http://t.me/VagasTIRN): Consiga sua nova vaga agora
+- [Ágil RN](http://t.me/agilrn): Entusiastas do Filosofia Ágil :triangular_flag_on_post:
 
 # Software livre
 - [PotiLivre](http://t.me/potilivre): Comunidade Potiguar de Software Livre
@@ -53,17 +53,18 @@ Para realizar pedidos de novas comunidades:
 - [Java\<RN\>](https://t.me/java_rn): Java e suas diversas tecnologias :triangular_flag_on_post:
   - [GitHub](http://github.com/java-rn)
 
-# Desenvolvimento aplicados
+# Desenvolvimento aplicado
 - Pong: Desenvolvimento de jogos
   - [Discord](https://discordapp.com/invite/Nj44AKA)
   - [Facebook](https://www.facebook.com/groups/pongrn/)
 - [Dojo Natal](http://t.me/dojonatal): Treino de programação
 - [Blockchain RN](http://t.me/blockchainrn)
-- [WebDevRN](http://t.me/webdevrn): Desenvolvimento Web
+- [WebDevRN](http://t.me/webdevrn): Desenvolvimento Web Geral
   - [Site](https://webdevrn.org/)
   - [GitHub](https://github.com/WebDevRN)    
 - [MobileDev RN](http://t.me/MobileDevRN): Desenvolvimento Mobile
-- [WordPress RN](http://t.me/wordpressrn): Comunidade de Usuários do Wordpress
+- [WordPress RN](http://t.me/wordpressrn): Comunidade de Usuários do Wordpress :triangular_flag_on_post:
+- [Owasp Chapter Natal](https://t.me/owaspnatal): Segurança da informação no desenvolvimento :triangular_flag_on_post:
 
 # Segurança, redes e infraestrutura
 - [DevOps RN](http://t.me/devopsrn): Cultura DevOps
@@ -71,7 +72,7 @@ Para realizar pedidos de novas comunidades:
 - [Nuvens RN](http://t.me/nuvensrn): Fornecedores de computação em nuvem
 
 # Ciência de Dados
-- [Dados Abertos RN](http://t.me/dadosabertosrn)
+- [Dados Abertos RN](http://t.me/dadosabertosrn): Discussão sobre dados abertos no RN
 - [Ciência de dados RN](http://t.me/cienciadedadosRN) 
 
 # Empreendedorismo e empregabilidade
@@ -80,11 +81,11 @@ Para realizar pedidos de novas comunidades:
   - [Facebook](https://www.facebook.com/jerimumvalley/)
   - [Instagram](https://www.instagram.com/jerimumvalley)
 - [Divulga Serviços TI - RN](http://t.me/RN_DivulgServsTI): Divulgação de serviços e portfólios de TI
-- [Remote Natal](http://t.me/remotenatal): trabalho e vagas de trabalho remoto :triangular_flag_on_post:
+- [Remote Natal](http://t.me/remotenatal): Trabalho e vagas de trabalho remoto :triangular_flag_on_post:
 
 # Design e comunicação
   - [UI/UX UnicoRN](http://t.me/uiuxrn): UI e UX Design
-  - [Arara Furtacor](https://t.me/afurtacor): inovação na área de comunicação e design :triangular_flag_on_post:
+  - [Arara Furtacor](https://t.me/afurtacor): Inovação na área de comunicação e design :triangular_flag_on_post:
     - [Site](http://afurtacor.online/)
 
 # Promoção e reforço da participação feminina na tecnologia
@@ -106,7 +107,6 @@ Para realizar pedidos de novas comunidades:
   - [GitHub](https://github.com/gdg-natal)
   - [Facebook](https://www.facebook.com/gdgnatal/)  
   - [Meetup.com](https://www.meetup.com/pt-BR/GDG-Natal/)
-- [Owasp Chapter Natal](https://t.me/owaspnatal): Segurança da informação :triangular_flag_on_post:
 - IEEE - Ramo estudantil da IEEE na UFRN
   - [Facebook](https://www.facebook.com/sb.ufrn/)
   - [Instagram](https://www.instagram.com/ieeeufrn/)
