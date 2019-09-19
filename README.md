@@ -21,12 +21,14 @@ Para realizar pedidos de novas comunidades:
   - [Confirme no evento do Facebook](http://bitly.com/BrejaTecFBE)
   - [Facebook](https://www.facebook.com/brejatec/)
 - [TI-RN](http://t.me/TIdoRN): Grupo geral de TI
+- [Ágil RN](http://t.me/agilrn): En :triangular_flag_on_post:
 
-# Eventos
+# Canais
 - [Agenda TI Potiguar](http://t.me/agendatirn): Nossa agenda de eventos de TI
   - [Instagram](https://www.instagram.com/agendatipotiguar/)
+- [Vagas TI RN](http://t.me/VagasTIRN): Consiga sua nova vaga agora
 
-# Softwares livres
+# Software livre
 - [PotiLivre](http://t.me/potilivre): Comunidade Potiguar de Software Livre
   - [Site](https://potilivre.org/)
   - [Twitter](http://www.twitter.com/potilivre)
@@ -51,7 +53,7 @@ Para realizar pedidos de novas comunidades:
 - [Java\<RN\>](https://t.me/java_rn): Java e suas diversas tecnologias :triangular_flag_on_post:
   - [GitHub](http://github.com/java-rn)
 
-# Programação e desenvolvimento aplicados
+# Desenvolvimento aplicados
 - Pong: Desenvolvimento de jogos
   - [Discord](https://discordapp.com/invite/Nj44AKA)
   - [Facebook](https://www.facebook.com/groups/pongrn/)
@@ -61,19 +63,18 @@ Para realizar pedidos de novas comunidades:
   - [Site](https://webdevrn.org/)
   - [GitHub](https://github.com/WebDevRN)    
 - [MobileDev RN](http://t.me/MobileDevRN): Desenvolvimento Mobile
+- [WordPress RN](http://t.me/wordpressrn): Comunidade de Usuários do Wordpress
 
 # Segurança, redes e infraestrutura
 - [DevOps RN](http://t.me/devopsrn): Cultura DevOps
 - [DarkWaves](http://t.me/darkwaves_group): Redes sem fio
 - [Nuvens RN](http://t.me/nuvensrn): Fornecedores de computação em nuvem
 
-# Data Science
+# Ciência de Dados
 - [Dados Abertos RN](http://t.me/dadosabertosrn)
-- [Ciência de dados RN](http://t.me/cienciadedadosRN)
-- [PandasRN](https://t.me/pandasrn)
+- [Ciência de dados RN](http://t.me/cienciadedadosRN) 
 
 # Empreendedorismo e empregabilidade
-- [Vagas TI RN](http://t.me/VagasTIRN): Consiga sua nova vaga agora
 - [Jerimum Valley](http://t.me/jerimumvalley): Empreendedorismo Potiguar
   - [Site](http://jerimumvalley.org/)
   - [Facebook](https://www.facebook.com/jerimumvalley/)
@@ -105,7 +106,7 @@ Para realizar pedidos de novas comunidades:
   - [GitHub](https://github.com/gdg-natal)
   - [Facebook](https://www.facebook.com/gdgnatal/)  
   - [Meetup.com](https://www.meetup.com/pt-BR/GDG-Natal/)
-- [Owasp Chapter Natal](https://t.me/owaspnatal): Segurança da informação
+- [Owasp Chapter Natal](https://t.me/owaspnatal): Segurança da informação :triangular_flag_on_post:
 - IEEE - Ramo estudantil da IEEE na UFRN
   - [Facebook](https://www.facebook.com/sb.ufrn/)
   - [Instagram](https://www.instagram.com/ieeeufrn/)
