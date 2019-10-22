@@ -63,8 +63,11 @@ Para realizar pedidos de novas comunidades:
   - [Site](https://webdevrn.org/)
   - [GitHub](https://github.com/WebDevRN)    
 - [MobileDev RN](http://t.me/MobileDevRN): Desenvolvimento Mobile
-- [WordPress RN](http://t.me/wordpressrn): Comunidade de Usuários do Wordpress :triangular_flag_on_post:
-- [Owasp Chapter Natal](https://t.me/owaspnatal): Segurança da informação no desenvolvimento :triangular_flag_on_post:
+- [WordPress RN](http://t.me/wordpressrn): Comunidade de Usuários do Wordpress
+- [Owasp Chapter Natal](https://t.me/owaspnatal): Segurança da informação no desenvolvimento 
+- [React Natal](https://t.me/joinchat/H1k6RhYZPseq9vZ1W8A5Eg): Comunidade ReactJS :triangular_flag_on_post:
+  - [Site](https://react.natal.br/)
+
 
 # Segurança, redes e infraestrutura
 - [DevOps RN](http://t.me/devopsrn): Cultura DevOps
