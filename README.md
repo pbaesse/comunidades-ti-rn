@@ -51,7 +51,6 @@ Para realizar pedidos de novas comunidades:
   - [Desenvolvimento Mobile](http://t.me/MobileDevRN)
   - [Divulgação de serviços e portfólio de TI](http://t.me/RN_DivulgServsTI )
   - [Pong: Desenvolvimento de jogosv (Discord)](https://discordapp.com/invite/Nj44AKA)
-- [Vagas TI RN](http://t.me/VagasTIRN): Consiga sua nova vaga agora
 
 # Temas gerais de TI e socialização
 
@@ -140,7 +139,7 @@ Para realizar pedidos de novas comunidades:
   - [Site](http://afurtacor.online/)
 
 # Promoção e reforço da participação feminina na tecnologia
-
+- Mulheres, para entrar nesses grupos do telegram, basta perdi em um grupo como PotiLivre ou GruPy que alguma das participantes  adicionarão vocês.
 - PyLadies Natal  
   - [Site](https://pyladiesnatal.github.io/)
   - [GitHub](https://github.com/PyLadiesNatal)
