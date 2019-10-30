@@ -139,7 +139,7 @@ Para realizar pedidos de novas comunidades:
   - [Site](http://afurtacor.online/)
 
 # Promoção e reforço da participação feminina na tecnologia
-- Mulheres, para entrar nesses grupos do telegram, basta perdi em um grupo como PotiLivre ou GruPy que alguma das participantes  adicionarão vocês.
+- Mulheres, para entrar nesses grupos do telegram, basta pedir em um grupo como PotiLivre ou GruPy que alguma das participantes  adicionarão vocês.
 - PyLadies Natal  
   - [Site](https://pyladiesnatal.github.io/)
   - [GitHub](https://github.com/PyLadiesNatal)
