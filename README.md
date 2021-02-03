@@ -1,5 +1,5 @@
 # Desatualizado! [Usar a versão do gitlab: https://gitlab.com/pbaesse/comunidades-ti-rn](https://gitlab.com/pbaesse/comunidades-ti-rn). 
-O github é software proprietário e o gitlab é um software livre real. Assim todos os meus repos estão no gitlab agora. Recomendo usar também. [Veja outros motivos para usar o gitlab](https://about.gitlab.com/blog/2018/06/11/why-move-to-gitlab/).
+## O github é software proprietário e o gitlab é um software livre real. Assim todos os meus repos estão no gitlab agora. Recomendo usar também. [Veja outros motivos para usar o gitlab](https://about.gitlab.com/blog/2018/06/11/why-move-to-gitlab/).
 
 Comunidades Potiguares de TI
 =============
